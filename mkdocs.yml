@@ -4,5 +4,43 @@ site_author: 'denchuku'
 docs_dir: docs/
 repo_name: 'denchuku/garden'
 repo_url: 'https://github.com/denchuku/garden'
+markdown_extensions:
+  - admonition
+  - attr_list
+  - smarty
+  - sane_lists
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.tabbed
+  - toc:
+      permalink: ⚓︎
+      toc_depth: 4
+plugins:
+  - search:
+      lang: en
 theme:
   name: 'material'
+  language: en
+  features:
+    - navigation.instant
+    - navigation.tabs
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+

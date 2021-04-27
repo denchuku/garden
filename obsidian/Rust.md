@@ -1,8 +1,6 @@
 Install rustup-init
-```shell
+```shell-session
 $ brew install rustup-init
-
-# (installs cargo, rustc, ...)
 $ rustup-init 
 ```
 
