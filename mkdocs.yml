@@ -1,0 +1,8 @@
+site_name: Garden
+site_description: 'Personal garden knowledge sink'
+site_author: 'denchuku'
+docs_dir: docs/
+repo_name: 'denchuku/garden'
+repo_url: 'https://github.com/denchuku/garden'
+theme:
+  name: 'material'
