@@ -5,6 +5,8 @@ Show hidden files in finder
 Show all windows of current app
 `⌃` + `↓`
 
+Show "Insert Emoji"
+`⌃` + `⌘` + `␣`
 
 ## Key reference
 
@@ -22,4 +24,4 @@ Show all windows of current app
 | Delete, Backspace | ⌫      | &#9003;         |                     |
 | Return            | ↩      | &#8617;         |                     |
 | Return            | ↵      | &#8629; &crarr; |                     |
-|                   |        |                 |                     |
+| Space             | ␣      |                 | open box            | 

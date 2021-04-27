@@ -1,6 +1,3 @@
----
-aliases: ["Google Cloud"]
----
 Install Google Cloud SDK (includes `gsutil`):
 ```shell
 brew install google-cloud-sdk

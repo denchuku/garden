@@ -5,6 +5,7 @@ Required: [[Homebrew/index|homebrew]]
 ```shell
 brew install python
 ```
+
 In order not to use macOS old python, add new python to the path of the shell: In `.zshrc`:
 ```shell
 export PATH="/usr/local/opt/python/libexec/bin:$PATH"
