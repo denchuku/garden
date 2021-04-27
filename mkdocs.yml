@@ -26,9 +26,7 @@ theme:
   language: en
   features:
     - navigation.instant
-    - navigation.tabs
   palette:
-    # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -36,8 +34,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-
-    # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep orange
