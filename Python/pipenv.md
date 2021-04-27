@@ -31,13 +31,13 @@ Output Python interpreter information
 ```shell
 pipenv --py
 ```
-/Users/dennis/.local/share/virtualenvs/md-mkdocs-material-helper-suciZAwh/bin/python
+~/.local/share/virtualenvs/md-mkdocs-material-helper-suciZAwh/bin/python
 
 Output Python interpreter information
 ```shell
 pipenv --venv
 ```
-/Users/dennis/.local/share/virtualenvs/md-mkdocs-material-helper-suciZAwh
+~/.local/share/virtualenvs/md-mkdocs-material-helper-suciZAwh
 
 ### Install packages in environment
 (When in environment shell:)
@@ -59,7 +59,7 @@ pipenv uninstall package_name
 - commit the **Pipfile** to GIT
 - The lock file **Pipfile.lock** can be committed to GIT or added into your **.gitignore**
 
-Good example of readme.md (from https://mattgosden.medium.com/pipenv-for-easier-virtual-environments-69e1e520cde8):
+Good example of readme.md (from [Medium](https://mattgosden.medium.com/pipenv-for-easier-virtual-environments-69e1e520cde8):)
 
 ```markdown
 # Developers
@@ -76,8 +76,8 @@ Instructions for installing this project on your local machine and getting it ru
 
 
 ### Ressources
-- https://mattgosden.medium.com/pipenv-for-easier-virtual-environments-69e1e520cde8
-- https://python.land/virtual-environments/pipenv
+- [Pipenv for easier virtual environments | by Matt Gosden | Medium](https://mattgosden.medium.com/pipenv-for-easier-virtual-environments-69e1e520cde8)
+- [Python Pipenv: A Better Package Manager • Python Land Tutorial](https://python.land/virtual-environments/pipenv)
 
 
  

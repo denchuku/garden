@@ -8,7 +8,7 @@ aliases: [python]
 
 
 - How to structure projects
-	- https://docs.python-guide.org/writing/structure/
+	- [Structuring Your Project — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/)
 
 ## Resources
-- https://python.land/virtual-environments/virtualenv
+- [Python venv: how to create, activate, and delete • Python Land Tutorial](https://python.land/virtual-environments/virtualenv)

@@ -13,7 +13,7 @@ aliases: [homebrew]
 ## Links
 - [[Useful formulas und casks for homebrew]]
 - [[Casks with autoupdate]]
-- [devhints sheet](https://devhints.io/homebrew)
+- [Homebrew cheatsheet](https://devhints.io/homebrew)
 - [List of installable formulas](https://formulae.brew.sh/formula/)
 
 ## Basics
