@@ -10,6 +10,8 @@ markdown_extensions:
   - smarty
   - sane_lists
   - pymdownx.keys
+  - pymdownx.highlight
+  - pymdownx.superfences
   - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.tabbed
