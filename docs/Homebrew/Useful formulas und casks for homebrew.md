@@ -30,3 +30,20 @@ Without autoupdate (=will be updated by homebrew)
 * `brew install --cask libreoffice`
 * `brew install --cask veracrypt`
 * `brew install --cask zoom`
+
+## Fonts
+
+For some fonts svn is required :-(
+
+````shell
+brew install svn
+````
+
+````shell
+brew tap homebrew/cask-fonts
+brew install font-inter
+brew install font-vollkorn
+brew install font-roboto
+brew install font-open-sans
+brew install font-meslo-lg
+````
