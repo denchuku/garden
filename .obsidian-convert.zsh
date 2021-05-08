@@ -2,4 +2,4 @@
 
 rm -r docs/**
 
-obsidian-export obsidian docs
+obsidian-export garden-obsidian docs
